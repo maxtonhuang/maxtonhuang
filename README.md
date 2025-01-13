@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxtonhuang
-- 👀 I’m interested in ... Programming
+- 👀 I’m interested in ... Programming in C++
 - 🌱 I’m currently learning ... Computer Science in Interactive Media and Game Development
-- 💞️ I’m looking to collaborate on ... EDM and Acoustic Music
+- 💞️ I’m looking to collaborate on ... Game Engines and Mini Games
 - 📫 How to reach me ... just drop me a message!
 
 <!---
